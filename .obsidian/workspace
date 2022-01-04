@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cc5dd9a90f37265f",
+        "id": "4c3ab509298d04b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#classes/syllabi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +88,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "323f2b38c5aaeb7c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -95,8 +104,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cc5dd9a90f37265f",
+  "active": "4c3ab509298d04b3",
   "lastOpenFiles": [
-    "README.md"
+    "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
+    "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Syllabus.md",
+    "Classes and Workshops/Classes/Game Design Studio/Game Design Studio.md",
+    "Classes and Workshops/Classes/Game Design Studio/Kanban -- Game Design Studio.md",
+    "Classes and Workshops/Classes and Workshops.md",
+    "Personal Research/Game Design.md",
+    "Personal Research/Personal Research.md",
+    "README.md",
+    "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Readings.md"
   ]
 }
