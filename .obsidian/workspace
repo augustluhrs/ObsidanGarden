@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,18 +102,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "4c3ab509298d04b3",
   "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "Personal Research/Personal Research.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Syllabus.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio.md",
     "Classes and Workshops/Classes/Game Design Studio/Kanban -- Game Design Studio.md",
     "Classes and Workshops/Classes and Workshops.md",
     "Personal Research/Game Design.md",
-    "Personal Research/Personal Research.md",
-    "README.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Readings.md"
   ]
 }
