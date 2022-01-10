@@ -56,7 +56,31 @@
 	5. Assignments: 
 		1. Prototype Prompt: 
 		2. Readings:
-5. **Gamification and Psychology of Games** 
+5.  **Iterative Game Design Pt.2 -- Tips and Tricks** 
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+6. **Midterm Playtests and Meatspace Affordances** 
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+7. **Midterm Games/Feedback, Rules, and Breaking the Rules** 
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+8. **Gamification and Psychology of Games** 
 	1. Playtests: 
 	2. Lecture:
 	3. Game:
@@ -65,30 +89,6 @@
 	5. Assignments: 
 		1. Prototype Prompt: 
 		2. Readings
-6.  **Iterative Game Design Pt.2 -- Tips and Tricks** 
-	1. Playtests: 
-	2. Lecture:
-	3. Game:
-	4. Discussion:
-	5. Assignments: 
-		1. Prototype Prompt: 
-		2. Readings:
-7. **Midterm Playtests and Meatspace Affordances** 
-	1. Playtests: 
-	2. Lecture:
-	3. Game:
-	4. Discussion:
-	5. Assignments: 
-		1. Prototype Prompt: 
-		2. Readings:
-8. **Midterm Games/Feedback, Rules, and Breaking the Rules** 
-	1. Playtests: 
-	2. Lecture:
-	3. Game:
-	4. Discussion:
-	5. Assignments: 
-		1. Prototype Prompt: 
-		2. Readings:
 9. **Alt-Games, Games for X, and "Games"**
 	1. Playtests: 
 	2. Lecture:
@@ -113,7 +113,7 @@
 	5. Assignments: 
 		1. Prototype Prompt: Personal Game Manifestos
 		2. Readings:
-12. **Final Game Design, Studio Time / CYOA Topic**
+12. **Final Game Design, First Playtests, CYOA Topic**
 	1. Playtests: 
 	2. Lecture:
 	3. Game:
@@ -145,6 +145,7 @@
 - TTRPG
 - Escape Room
 - ARG
+- Play a game in a *space*, like Wonderville, an escape room, a sport, a living room.
 - *Twine*
 - *Other online medium*
 - **Midterm**
@@ -161,6 +162,8 @@
 - Twine Games
 	- Love at the end of the world or whatever
 	- Anna Anthropy
+- Telephone pictionary
+- Jackbox
 
 ## Class Structure Template
 1. Check-ins and Attendance
@@ -190,12 +193,20 @@
 		5. What are some ways to improve on the things you were testing, or other ways to test them?
 		6. What aspects of the game would you test next?
 
+## Misc
+- Will have organic group formation -- ideas over arbitrary sizes. But a group of 4 people should look like it took 4 people to make. And at least one assignment must be done solo, and one assignment must be done in a group.
+	- Could ask people if they prefer to work solo or in group. Nah too complicated, just across board.
+- Could have a one-pager accompany each game assignment
+	- Define the six elements of play for the game
 
 ## Questions for Scott
 1. Classroom set up -- whiteboards?
 2. Guest Lecturer honorarium?
 3. Guest critics for final class
 4. Grading Rubric
+
+## Sources and Readings
+[[Games, Design, and Play]]
 
 ## Example Syllabi
 [Joy And Games](https://docs.google.com/document/d/12u3C392l4Km4dZMQ3nMYyRyY3B4Ljc8-f0TbYql4fs0/edit#heading=h.muhvbh9y7yl4)
