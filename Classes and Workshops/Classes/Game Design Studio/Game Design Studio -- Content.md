@@ -22,18 +22,118 @@
 	- Joyful Militancy
 
 ## Rough Week Outline
-1. What is a Game?
-	1. Assignment: Prepare to Talk about a Game (or before class?)
-2. Iterative Game Design
-3. Gamification and Psychology of Games
-4. Community Connection
-5. Play as Radical Act and Manifestos
-	1. Assignment:
-6. Midterm Playtests and
-7. Midterm Games/Feedback and 
-8. Final Game Design and
-9. Final Playtests and 
-10. Final Games/Feedback from Guest Critics and Celebration
+1. **What is a Game? Different Kinds of Play**
+	2. Playtests: Icebreaker Game
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: Prepare to Talk about a Game (or before class?)
+		2. Readings:
+			1.  *Games, Design, and Play*
+			2. *A Game Design Vocabulary*
+2. **Game Design Fundamentals**
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings
+3. **Iterative Game Design Pt.1 -- Basic Overview** 
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+4. **Narrative, Game Feel, Elegance, Emergence, and Other Important Topics**
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+5. **Gamification and Psychology of Games** 
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+		1. Rapid Prototyping Challenge
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings
+6.  **Iterative Game Design Pt.2 -- Tips and Tricks** 
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+7. **Midterm Playtests and Meatspace Affordances** 
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+8. **Midterm Games/Feedback, Rules, and Breaking the Rules** 
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+9. **Alt-Games, Games for X, and "Games"**
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: Personal Game Manifestos
+		2. Readings:
+10. **Well Played Games and Community Connection**
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: Personal Game Manifestos
+		2. Readings:
+11. **Play as a Radical Act and Manifestos**
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: Personal Game Manifestos
+		2. Readings:
+12. **Final Game Design, Studio Time / CYOA Topic**
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+13. **Final Playtests, Studio Time / CYOA Topic**
+	1. Playtests: 
+	2. Lecture:
+	3. Game:
+	4. Discussion:
+	5. Assignments: 
+		1. Prototype Prompt: 
+		2. Readings:
+14. **Final Games, Feedback from Guest Critics, and Celebration**
+	1. Playtests
+	2. Guest Critic Feedback
+	3. Celebration
+	4. Documentation and Design Wrap Up
 
 ### Assignments
 - Talk about a game
@@ -46,6 +146,7 @@
 - Escape Room
 - ARG
 - *Twine*
+- *Other online medium*
 - **Midterm**
 - Manifestos
 - **Final**
@@ -61,6 +162,40 @@
 	- Love at the end of the world or whatever
 	- Anna Anthropy
 
+## Class Structure Template
+1. Check-ins and Attendance
+2. Playtesting Prototype Assignments
+	1. Group A
+	2. Group 1
+	3. Feedback Analysis and Processing
+3. Lecture
+4. Break
+5. Play a Game
+6. Discussion
+7. Prep for Next Week
+	1. Assignments (Readings and Prototype Prompt)
+	2. Brainstorm and Form Groups
+
+
+## Iteration Guidelines
+1. Find
+2. Fiddle
+3. Fail
+4. Filter
+	1. Questions to Ask
+		1. Did your playtesting parameters produce insights in the sections you were hoping to get clarity on?
+		2. What unexpected insights came up?
+		3. What was the vibe of the players?
+		4. Do you think your players understood the game? What was the average amount of time in unknown // learning // confused // off to the races // grokked?
+		5. What are some ways to improve on the things you were testing, or other ways to test them?
+		6. What aspects of the game would you test next?
+
+
+## Questions for Scott
+1. Classroom set up -- whiteboards?
+2. Guest Lecturer honorarium?
+3. Guest critics for final class
+4. Grading Rubric
 
 ## Example Syllabi
 [Joy And Games](https://docs.google.com/document/d/12u3C392l4Km4dZMQ3nMYyRyY3B4Ljc8-f0TbYql4fs0/edit#heading=h.muhvbh9y7yl4)

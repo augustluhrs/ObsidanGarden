@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "47911208e1e0e95d",
@@ -107,13 +108,14 @@
   "active": "4c3ab509298d04b3",
   "lastOpenFiles": [
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
+    "README.md",
+    "index.md",
+    "Personal Research/Personal Research.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Syllabus.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio.md",
     "Classes and Workshops/Classes/Game Design Studio/Kanban -- Game Design Studio.md",
     "Classes and Workshops/Classes and Workshops.md",
     "Personal Research/Game Design.md",
-    "Personal Research/Personal Research.md",
-    "README.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Readings.md"
   ]
 }
