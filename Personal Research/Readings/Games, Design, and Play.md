@@ -7,7 +7,7 @@
 
 Play over product -- "play focused, not product oriented"
 
-## Chapter 1
+## Chapter 1: Games, Design, and Play
 Games are processes that produce play when interacted with, mechanisms for generating play. 
 
 **Systems dynamics** -- considering how the elements of a game come together to create different dynamics. Like a car, same combination of elements, but different drivers (inputs) produce different outputs (traffic, parallel parking, racing). Systems take inputs and generate different kinds of outputs.
@@ -56,6 +56,34 @@ Iterative Design is so important with games because of how little control the de
 **Space of possibility** -- the potential experiences a game designer creates through their combination of objects, playspace, players, rules, actions, and goals. (Queers in love at the end of the world or line wobbler VS minecraft). Shifts focus of responsibility for experience -- narrow space games are usually designed for a very specific experience the designer wants you to have, while huge open-world games leave the experience up to the player (mostly). Why play design is important -- designing games doesn't produce experiences, but designing games that produce play produces experiences (or something).
 
 **Game state** refers to a snapshot moment of a game -- where the players and objects are in the playspace, the current score, the progress towards completing the game's goal, and so on. Sequence of states will always be similar but likely never the same -- why games are such a powerful medium, they allow for endless emergent experience. (**emergent experience** defined as meaning arising from choices).
+
+
+## Chapter 2: Basic Game Design Tools
+
+- Constraint
+	- putting limits on player actions and interactions with the objects, other players, and the playspace with the intention of creating a play experience.
+	- Rules make play more interesting and engaging, and make achieving the goal more satisfying.
+	- Bernard Suits's "lusory attitude" -- players are willing to accept, and even invite, less efficient or logical means of engaging with a game in exchange for the potential of the play experience.
+	- Generate challenge, creative strategies, and engagement for players.
+	- examples
+		- golf -- why not just put ball in hole? why expensive stick far from hole?
+		- octodad -- game about mopping the floor as a human, not fun. game about trying to mop the floor as a boneless octopus, fun.
+	- Direct and Indirect Action
+		- Direct actions are those in which the player has immediate interaction with objects and the playspace
+		- Indirect actions are those that occur without direct contact by the player or the primary objects they use while playing
+			- pinball chain of events
+		- more direct actions = more agency, more indirect actions = more discovery and immersion, balance of the two = dynamic, interactive world
+	- Goals
+		- balance between goals, no goals, and goals as means for process (catalyst that allows the experience to unfold, humans like direction, later the experience can be the drive)
+		- *Dog Eat Dog* -- colonization RPG 
+		- layered goals -- goals within goals or goals that are really masks for a deeper goal (i.e. perfom this task to learn more of the story)
+		- goals are very important, they are one of the only ways we can guide players' experiences in engaging with the actions, objects, and playspaces we design.
+		- Goals frame the play experience and suggest to players how to engage with the game. They shape the space of possibility.
+		- They also shape how players perceive the available actions and objects and whether they approach them as a means to an end or an experience unto themselves.
+	- Challenge
+		- Mihaly Csikszentmilhalyi's idea of flow -- balance of challenge and skill that results in high focus and enjoyment
+
+
 
 
 #games 
