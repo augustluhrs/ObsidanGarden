@@ -82,6 +82,50 @@ Iterative Design is so important with games because of how little control the de
 		- They also shape how players perceive the available actions and objects and whether they approach them as a means to an end or an experience unto themselves.
 	- Challenge
 		- Mihaly Csikszentmilhalyi's idea of flow -- balance of challenge and skill that results in high focus and enjoyment
+			- reference for how to design increasing difficulty in a game
+		- similar concept is absorption, deep engagment in the play experience.
+			- can result in over-coming self-consciousness, as in Ninja
+		- also used to encourage player skill development
+		- can be a challenge of skill, or a more abstract challenge, like a game that challenges notions of gender for example
+		- "Perfect Woman" kinect game as example of all three
+		- challenge is a dial you can tune up or down
+	- Skill, Strategy, Chance, Uncertainty
+		- Skill -- the degree to which a player has mastered an action within a game
+		- Strategy -- the ability of the player to determine the best ways to perform the actions of the game in order to achieve their goals
+		- chance -- 
+			- the more chance, the harder it is for a player to develop strategies, regardless of skill
+			- poker and other games where you develop strategies around chance
+		- uncertainty -- 
+			- no matter how much one practices, there is uncertainty that can lead to unpredictable events in a game.
+			- how much is directed by players vs outside of their control? (chess vs roulette, chutes and ladders = all chance, no choice)
+	- Decision Making and Feedback
+		- "action-outcome unit" -- gameplay is made of hundreds of these pairs of decisions and results, each one creating a new game state, and overall creating the play experience itself.
+		- the player needs time to analyze the game state in-order to made a decision, and then afterwards, the change in the game state must be obvious for the player to know what impact their choice has had.
+			- can have delayed feedback, like in an engine builder or war game
+		- can make games that prioritize experience over player control
+		- the more clearly a game designer crafts the ability of players to understand the game state and the impact of their actions on it, the more chance players have to feel empowered in their play
+	- Abstraction
+		- how representational the game is
+		- non-representational abstrraction of game elements (go)
+		- abstraction of real-world activities into other medium (pong)
+		- abstraction of systems into game form (pandemic)
+		- abstraction gets rid of extraneous details and lets game designers focus on what's fun about the interaction of the game goals, the actions players can take to reach those goals, and the objects and playspaces
+	- Theme
+		- the logcial framework for how the game represents itself (?)
+		- a conceptual handle for players to be able to graps how the world might work, and a framework for them to use when interpreting how their decisions might effect the game state.
+		- what is the game "about" -- both the conceptual framework and the experience that the players have within that framework. (i.e. a game where you struggle to communicate being about cooperation)
+	- (Atmosphere) 
+		- the sensory feel of the game and how that contributes to player experience and builds theme
+		- aesthetics, sound, texture, juice, colors, speed, haziness, etc.
+	- Storytelling
+		- can be the main play experience (kentucky route zero)
+		- can be a blank slate narrative that will be thematically similar to others' games, but arise uniquely out of the choices the player makes
+		- emergent narrative
+	- Context of Play
+		- where is the game played and by whom?
+		- can't always predict this as designers, but can limit the possible contexts by way of the physical materials needed to play the game
+
+
 
 
 

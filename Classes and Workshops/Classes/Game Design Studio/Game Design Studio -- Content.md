@@ -198,6 +198,7 @@
 	- Could ask people if they prefer to work solo or in group. Nah too complicated, just across board.
 - Could have a one-pager accompany each game assignment
 	- Define the six elements of play for the game
+- Can make a webpage autosorter for playtest time based on how many players each group needs
 
 ## Questions for Scott
 1. Classroom set up -- whiteboards?
