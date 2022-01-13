@@ -101,6 +101,27 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "044496ffc5310872",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29d41ec41979f5e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal Research/Readings/Games, Design, and Play.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -112,14 +133,14 @@
   "active": "4c3ab509298d04b3",
   "lastOpenFiles": [
     "Personal Research/Readings/Games, Design, and Play.md",
-    "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
+    "Classes and Workshops/Classes/Game Design Studio/Game Design Glossary.md",
     "Personal Research/Game Design.md",
+    "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
     "index.md",
     "README.md",
     "Personal Research/Personal Research.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Syllabus.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio.md",
-    "Classes and Workshops/Classes/Game Design Studio/Kanban -- Game Design Studio.md",
-    "Classes and Workshops/Classes and Workshops.md"
+    "Classes and Workshops/Classes/Game Design Studio/Kanban -- Game Design Studio.md"
   ]
 }

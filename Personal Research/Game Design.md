@@ -1,6 +1,8 @@
 
 # Game Design
 
+[[Game Design Glossary]]
+
 ### Readings
 [[Games, Design, and Play]]
 

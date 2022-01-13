@@ -63,7 +63,7 @@ Iterative Design is so important with games because of how little control the de
 - Constraint
 	- putting limits on player actions and interactions with the objects, other players, and the playspace with the intention of creating a play experience.
 	- Rules make play more interesting and engaging, and make achieving the goal more satisfying.
-	- Bernard Suits's "lusory attitude" -- players are willing to accept, and even invite, less efficient or logical means of engaging with a game in exchange for the potential of the play experience.
+	- Bernard Suits' "lusory attitude" -- players are willing to accept, and even invite, less efficient or logical means of engaging with a game in exchange for the potential of the play experience.
 	- Generate challenge, creative strategies, and engagement for players.
 	- examples
 		- golf -- why not just put ball in hole? why expensive stick far from hole?
@@ -76,14 +76,14 @@ Iterative Design is so important with games because of how little control the de
 	- Goals
 		- balance between goals, no goals, and goals as means for process (catalyst that allows the experience to unfold, humans like direction, later the experience can be the drive)
 		- *Dog Eat Dog* -- colonization RPG 
-		- layered goals -- goals within goals or goals that are really masks for a deeper goal (i.e. perfom this task to learn more of the story)
+		- layered goals -- goals within goals or goals that are really masks for a deeper goal (i.e. perform this task to learn more of the story)
 		- goals are very important, they are one of the only ways we can guide players' experiences in engaging with the actions, objects, and playspaces we design.
 		- Goals frame the play experience and suggest to players how to engage with the game. They shape the space of possibility.
 		- They also shape how players perceive the available actions and objects and whether they approach them as a means to an end or an experience unto themselves.
 	- Challenge
-		- Mihaly Csikszentmilhalyi's idea of flow -- balance of challenge and skill that results in high focus and enjoyment
+		- Mihaly Csikszentmihalyi's idea of flow -- balance of challenge and skill that results in high focus and enjoyment
 			- reference for how to design increasing difficulty in a game
-		- similar concept is absorption, deep engagment in the play experience.
+		- similar concept is absorption, deep engagement in the play experience.
 			- can result in over-coming self-consciousness, as in Ninja
 		- also used to encourage player skill development
 		- can be a challenge of skill, or a more abstract challenge, like a game that challenges notions of gender for example
@@ -106,13 +106,13 @@ Iterative Design is so important with games because of how little control the de
 		- the more clearly a game designer crafts the ability of players to understand the game state and the impact of their actions on it, the more chance players have to feel empowered in their play
 	- Abstraction
 		- how representational the game is
-		- non-representational abstrraction of game elements (go)
+		- non-representational abstraction of game elements (go)
 		- abstraction of real-world activities into other medium (pong)
 		- abstraction of systems into game form (pandemic)
 		- abstraction gets rid of extraneous details and lets game designers focus on what's fun about the interaction of the game goals, the actions players can take to reach those goals, and the objects and playspaces
 	- Theme
-		- the logcial framework for how the game represents itself (?)
-		- a conceptual handle for players to be able to graps how the world might work, and a framework for them to use when interpreting how their decisions might effect the game state.
+		- the logical framework for how the game represents itself (?)
+		- a conceptual handle for players to be able to grasp how the world might work, and a framework for them to use when interpreting how their decisions might effect the game state.
 		- what is the game "about" -- both the conceptual framework and the experience that the players have within that framework. (i.e. a game where you struggle to communicate being about cooperation)
 	- (Atmosphere) 
 		- the sensory feel of the game and how that contributes to player experience and builds theme
@@ -125,7 +125,39 @@ Iterative Design is so important with games because of how little control the de
 		- where is the game played and by whom?
 		- can't always predict this as designers, but can limit the possible contexts by way of the physical materials needed to play the game
 
-
+## Chapter 3: The Kinds of Play
+- Not mutually exclusive, like ingredients in a meal
+- Competitive Play
+	- some players win, some players lose -- trying to come out ahead of your opponent
+	- yomi -- Japanese concept for knowing the mind of your opponent, using your predictions about their actions to inform your actions.
+		- when the interplay of a player's skill and strategies come up against the uncertainty of another player's skill and strategies.
+	- can be local, asynchronous, vs the game
+	- challenge of reaching the games goals, competing against the game and yourself
+	- Symmetrical vs Asymmetrical competition
+		- symmetrical competition -- players have the same abilities, shared actions, common goal
+		- asymmetrical competition -- players have different abilities/actions/objects and a different goal
+- Cooperative Play
+	- players work together to achieve the game's goals
+	- one of the best feelings, sync, flow
+	- symmetrical
+	- asymmetrical
+	- symbiotic
+		- players are reliant on one another to complete the game, it's impossible to win on your own
+- Skill-Based Play
+	- active skills
+		- manual dexterity, eye-hand coordination -- ex. precise movement and timing
+	- mental skills
+		- solving puzzles, memory, probability, etc.
+	- the higher the bar, the less players who are willing to commit but the greater the rewards for those who do (dark souls)
+- Experience-Based Play
+	- not focused on skill, but rather narrative, atmosphere, etc.
+	- can also be a part of competitive games like ninja, where the experience of playing with the group is usually more important than winning
+- Games of Chance and Uncertainty
+	- strategic management of uncertainty -- too much uncertainty and players feel like their efforts are meaningless, too little and it's not exciting
+	- card games like MTG and Netrunner -- shuffling decks is a core mechanic, would be a completely different game and play experience if you didn't have to shuffle your deck
+	- the "spiciness" of a game -- too much and it's inedible, too little and it's bland
+	- Candy land -- a game where there is no player choice at all. the illustrations and imaginative play and experience of rolling the dice are enough for four year olds, but not for others.
+- Whimsical Play
 
 
 
