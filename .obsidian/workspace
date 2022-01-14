@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal Research/Readings/Games, Design, and Play.md",
+            "file": "Personal Research/Habits and Creative Practice.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Research/Readings/Games, Design, and Play.md",
+                "file": "Personal Research/Habits and Creative Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Research/Readings/Games, Design, and Play.md"
+                "file": "Personal Research/Habits and Creative Practice.md"
               }
             }
           }
@@ -132,15 +132,15 @@
   },
   "active": "4c3ab509298d04b3",
   "lastOpenFiles": [
-    "Personal Research/Readings/Games, Design, and Play.md",
-    "Classes and Workshops/Classes/Game Design Studio/Game Design Glossary.md",
+    "Personal Research/Habits and Creative Practice.md",
+    "Personal Research/Readings/Atomic Habits.md",
     "Personal Research/Game Design.md",
+    "Personal Research/Readings/Games, Design, and Play.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Content.md",
-    "index.md",
     "README.md",
-    "Personal Research/Personal Research.md",
-    "Classes and Workshops/Classes/Game Design Studio/Game Design Studio -- Syllabus.md",
     "Classes and Workshops/Classes/Game Design Studio/Game Design Studio.md",
-    "Classes and Workshops/Classes/Game Design Studio/Kanban -- Game Design Studio.md"
+    "Idea Garden/Uncategorized/Bed Sheet Noise Map.md",
+    "index.md",
+    "Classes and Workshops/Classes/Game Design Studio/Game Design Glossary.md"
   ]
 }

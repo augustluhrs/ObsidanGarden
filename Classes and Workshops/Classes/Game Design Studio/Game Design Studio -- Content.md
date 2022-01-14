@@ -200,6 +200,11 @@
 	- Define the six elements of play for the game
 - Can make a webpage autosorter for playtest time based on how many players each group needs
 
+## Important Links
+- Student advocate -- eng.studentadvocate@nyu.edu
+	- can also include -- idmadvise@nyu.edu
+
+
 ## Questions for Scott
 1. Classroom set up -- whiteboards?
 2. Guest Lecturer honorarium?
